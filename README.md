@@ -41,7 +41,7 @@ streamlit run main.py
 - Open the web UI via the URL displayed in your terminal (typically http://localhost:8501).
 - Enter queries like:
     - `"all doctors in pediatrics"`
-    - `"endocrinologist in Hebbal"`
+    - `"endocrinologist in Bangalore"`
     - `"professor of surgery"`
 
 ## Notes
